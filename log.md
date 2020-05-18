@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: May 17, 2020 (Example 1)
+### Day 1: May 17, 2020 
 ##### 
 
 **Today's Progress**: Got started on on my plans what to do during this challange. I checked freeCodeCamp.
