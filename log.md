@@ -9,7 +9,7 @@
 
 **Link to work:** 
 
-### Day 1:
+### Day 2:
 #####
 
 **Today's Progress**:
@@ -19,7 +19,7 @@
 **Link(s) to work**: 
 
 
-### Day 1: 
+### Day 3: 
 
 **Today's Progress**: 
 
