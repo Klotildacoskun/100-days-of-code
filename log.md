@@ -9,12 +9,12 @@
 
 **Link to work:** 
 
-### Day 2:
+### Day 2: May 18,2020
 #####
 
-**Today's Progress**:
+**Today's Progress**: I Have decided my path to on and continue with learning Modern JavaScript.
 
-**Thoughts**: 
+**Thoughts**: I comitted some javascript code from my intro javascript class.
 
 **Link(s) to work**: 
 
